@@ -1,0 +1,1 @@
+console.log("cities.js connected");
