@@ -1,5 +1,5 @@
 # Prestige-World-Wide
-Landing page for Prestige World Wide Travel Application. Prestige World Wide is a tourism and travel application to provide resources all in on place. 
+Welcome to the Prestige World Wide Travel Application. Prestige World Wide is a tourism and travel application to provide resources all in on place. 
 
 In addition to access to travel blog and trip information, users can also view recommendations tailored to provide tourist and local attractions for visits to major cities. 
 
