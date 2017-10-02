@@ -12,13 +12,18 @@ For Deployed Project <a href="https://prestige-world-wide-3.herokuapp.com/"> Cli
 
 <h4>Project Team:</h4>
 <h5>Front End</h5>
-* <a href="https://github.com/kvillejoint">Kamal Villejoint</a>
-* <a href="https://github.com/arfusop">Phil Arfuso</a>
-* <a href="https://github.com/mespada829">Maria Espada</a>
+    <ul>
+        <li><a href="https://github.com/kvillejoint">Kamal Villejoint</a></li>
+        <li><a href="https://github.com/arfusop">Phil Arfuso</a></li>
+        <li><a href="https://github.com/mespada829">Maria Espada</a</li>
+    </ul>
+<br />
 <h5>Back End</h5>
-* <a href="https://github.com/adambatimana">Adam Batimana</a>
-* <a href="https://github.com/CozO97">Cosmin Sofletea</a>
-*  <a href="https://github.com/cemolo">Claeys Emolo</a>
+    <ul>
+        <li><a href="https://github.com/adambatimana">Adam Batimana</a></li>
+        <li><a href="https://github.com/CozO97">Cosmin Sofletea</a></li>
+        <li><a href="https://github.com/cemolo">Claeys Emolo</a></li>
+    </ul>
 
 <h4>Tech Stack:</h4>
 Front End: HTML, CSS, JavaScript, jQuery, React JS, Twitter Bootstrap, Bootswatch
@@ -28,7 +33,7 @@ Back End & User Login: Mongo DB, Axios, Passport, Google Login Auth, Google Plac
 <h4>Comments:</h4>
 This project is part of a group collaboration containing additional repositories. For views of all applicable project plan and repositories see links below:
 
-* Project Demo: <a src="./presentation/Prestige-World-Wide.pptx">View Demo Presentation</a> or see presentation folder in repository.
+* Project Demo: <a href="https://docs.google.com/presentation/d/1-GAj4ZTf9MAE5bN0_lQ74TCWeXO281dgzdFQQRf_CO0/edit?usp=sharing">View Demo Presentation</a> or see presentation folder in repository.
 * HomePage: <a href="https://github.com/kvillejoint/Prestige-World-Wide-3"> Click Here</a>
 * Login & Credential Authorization: <a href="https://github.com/cemolo/Prestige_Exp_Auth"> Click Here</a>
 * Tourist Recommendations (powered by React JS): <a href="https://github.com/arfusop/prestige-world-wide"> Click Here</a>
